@@ -1,0 +1,15 @@
+{
+  "name": "watchwave-mern",
+  "version": "1.0.0",
+  "description": "Backend practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript node "
+  },
+  "keywords": [
+    "Javascript",
+    "backend"
+  ],
+  "author": "Khushboo",
+  "license": "ISC"
+}
